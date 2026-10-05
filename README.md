@@ -69,7 +69,7 @@ I'm interested in opportunities involving:
 
 ---
 
-[LinkedIn](YOUR-LINKEDIN-URL) • [Resume](YOUR-RESUME-OR-PORTFOLIO-URL)
+[LinkedIn](https://www.linkedin.com/in/martin-vazquez-sanchez-24b52b66/) • [Resume](YOUR-RESUME-OR-PORTFOLIO-URL)
 
 <!---
 crimsonzero26/crimsonzero26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
